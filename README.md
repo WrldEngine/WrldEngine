@@ -12,11 +12,5 @@
 <br/>
 <br/>
 <br/>
-<strong> > -- Languages -- </strong>
-- Python🐍
-- Pascal
-- VisualBasic
-- PHP
-- JS
-- C#(50/50 Only for Unity)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 <br/>
