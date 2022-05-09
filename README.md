@@ -12,7 +12,7 @@
   <img align="left" alt="instagram" width="62px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WrldEngine&theme=highcontrast)(https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WrldEngine&theme=highcontrast)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
