@@ -9,6 +9,8 @@
 <a href="https://github.com/WrldEngine">
   <img align="left" alt="instagram" width="62px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<br/>
+<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WrldEngine)](https://git.io/streak-stats)
 <br/>
 <br/>
