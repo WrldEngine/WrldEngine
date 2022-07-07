@@ -1,4 +1,5 @@
-# Hello i'm <i>Pulatov Kamran</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"><br/>
+# Hello i'm <i>Pulatov Kamran</i>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Shaytan+machine)<br/>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Compilation......done!)
 <a href="https://instagram.com/callistodev1">
