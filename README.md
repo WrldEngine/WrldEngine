@@ -1,6 +1,7 @@
 <div id='social_links' align='center'>
   <img src="https://media.giphy.com/media/pIrqpZjHNWiax4jzzg/giphy.gif" width="300"/>
   <h1>Hello, i'm <i>Kamran Pulatov</i>:man_technologist:</h1>
+  <h1>こんにちは！わたしはカムランです</h1>
   <a href="https://instagram.com/callistodev1">
     <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white&style=for-the-badge"/>
   </a>
