@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=WrldEngine&style=flat-square&color=yellow" alt=""/>
 </div>
 
-### :card_file_box: Who am I?　わたしはなんですか？
+### :card_file_box: Who am I?　わたしはだれですか？
 - :zap: Junior Backend Developer
 - :zap: Clean Coder
 - :zap: Security Developer
