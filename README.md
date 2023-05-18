@@ -1,7 +1,7 @@
 <div id='social_links' align='center'>
   <img src="https://media.giphy.com/media/pIrqpZjHNWiax4jzzg/giphy.gif" width="300"/>
   <h1>Hello, i'm <i>Kamran Pulatov</i>:man_technologist:</h1>
-  <h1>こんにちは！わたしはカムランプラタフです</h1>
+  <h1>こんにちは！私はカムランプラタフです</h1>
   <a href="https://instagram.com/callistodev1">
     <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white&style=for-the-badge"/>
   </a>
@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=WrldEngine&style=flat-square&color=yellow" alt=""/>
 </div>
 
-### :card_file_box: Who am I?　わたしはだれですか？
+### :card_file_box: Who am I?　私はだれですか？
 - :zap: Junior Backend Developer
 - :zap: Clean Coder
 - :zap: Security Developer
