@@ -19,11 +19,19 @@
 - :zap: Clean Coder
 - :zap: Security Developer
 ---
-### :page_facing_up: Languages :
+### :page_facing_up: Languages & Skills :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux", width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django", width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css", width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html", width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git", width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="js", width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu", width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask", width="80">
 </div>
 
 ---
