@@ -32,6 +32,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="js", width="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu", width="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask", width="80">
+  <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" width="80px"/>
+  <img src="https://www.postgresql.org//media/img/about/press/elephant.png" width="80px"/>
 </div>
 
 ---
