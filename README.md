@@ -15,7 +15,7 @@
 </div>
 
 ### :card_file_box: Who am I?　私はどなたですか？
-- :zap: Strong Backend Developer with 3y of experience
+- :zap: Strong Backend Developer
 - :zap: Clean Coder
 - :zap: Insterested in security development, ML/DL, 
 ---
