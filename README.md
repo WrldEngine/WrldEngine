@@ -1,6 +1,5 @@
 
 # Hello, i'm <i>Kamran Pulatov</i> <img src="https://media.giphy.com/media/pIrqpZjHNWiax4jzzg/giphy.gif" width="80"/>
-### こんにちは！私は「カムランプラタフ」です
 <a href="https://instagram.com/callistodev1">
   <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white&style=for-the-badge"/>
 </a>
@@ -13,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=WrldEngine&style=flat-square&color=yellow" alt=""/>
 </div>
 
-### :card_file_box: Who am I?　私はどなたですか？
+### :card_file_box: Who am I？
 - :zap: Strong Backend Developer
 - :zap: Clean Coder
 - :zap: Insterested in security development, ML/DL, 
