@@ -1,5 +1,7 @@
 
-# Hello, i'm <i>Kamran Pulatov</i> <img src="https://media.giphy.com/media/pIrqpZjHNWiax4jzzg/giphy.gif" width="80"/>
+# Hello, i'm <i>Kamran Pulatov</i>
+[![codewars](https://www.codewars.com/users/SiegHeil/badges/large)](https://www.codewars.com/users/SiegHeil)
+
 <a href="https://instagram.com/callistodev1">
   <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white&style=for-the-badge"/>
 </a>
