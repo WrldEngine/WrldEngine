@@ -43,3 +43,5 @@
 ### :bar_chart: My statistics :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WrldEngine&layout=compact&theme=vision-friendly-dark)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WrldEngine)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
