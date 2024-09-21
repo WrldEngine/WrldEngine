@@ -38,6 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite", width="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy", title="sqlalchemy" width="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sentry/sentry-original.svg" alt="sentry", title="sentry" width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="pytest", title="pytest" width="80">
 </div>
 
 ---
