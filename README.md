@@ -37,6 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="psql" width="80px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite", width="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy", title="sqlalchemy" width="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sentry/sentry-original.svg" alt="sentry", title="sentry" width="80">
 </div>
 
 ---
