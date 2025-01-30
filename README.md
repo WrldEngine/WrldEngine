@@ -1,6 +1,5 @@
 
 # Hello, i'm <i>Kamran Pulatov</i>
-[![codewars](https://www.codewars.com/users/SiegHeil/badges/large)](https://www.codewars.com/users/SiegHeil)
 
 <a href="https://instagram.com/callistodev1">
   <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white&style=for-the-badge"/>
@@ -24,8 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django", width="80">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css", width="80">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html", width="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git", width="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu", width="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask", title="flask" width="80">
